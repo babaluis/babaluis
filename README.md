@@ -57,7 +57,7 @@ Tech stack: HTML, CSS, JavaScript and Bootstrap
 
 
 ## 📫 Connect with Me
-- LinkedIn: [[linkedin.com/in/yourusername](#)](https://www.linkedin.com/in/luis-baba-189887185/)
+- LinkedIn: (https://www.linkedin.com/in/luis-baba-189887185/)
 - Portfolio: lbsolutions.com
 - Email: luisbaba62@gmail.com
 <!--
