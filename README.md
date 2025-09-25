@@ -11,7 +11,7 @@ I am currently working on various projects, including a new platform built with 
 - Others (APIs, Cloudflare, DevOps basics…)
 
 ## 🚀 Projects & Contributions
-🔧 Globaso - License Plate Management System
+## 🔧 Globaso - License Plate Management System
 A secure web-based system for ordering and managing license plates in Angola.
 Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, 
   ✅ Secure authentication and authorisation
@@ -21,7 +21,7 @@ Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recapt
 - repo: https://github.com/babaluis/globaso
 - Site: https://novasmatriculas.com/
 
-💸 Xpreços
+## 💸 Xpreços
 A comparison platform to compare prices of products in Angola, and enable them to find the shop locations, set a reminder once a price drops and be aware of how the economic graph of products is moving.
 Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, and Laravel.
   ✅ User types: Common and Merchant
