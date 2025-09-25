@@ -14,25 +14,25 @@ I am currently working on various projects, including a new platform built with 
 🔧 Globaso - License Plate Management System
 A secure web-based system for ordering and managing license plates in Angola.
 Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, 
-✅ Secure authentication and authorisation
-✅ REST API integration with a physical license plate printing machine
-✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
-✅ Deployment done by me
+  ✅ Secure authentication and authorisation
+  ✅ REST API integration with a physical license plate printing machine
+  ✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
+  ✅ Deployment done by me
 - repo: https://github.com/babaluis/globaso
 - Site: https://novasmatriculas.com/
 
 💸 Xpreços
 A comparison platform to compare prices of products in Angola, and enable them to find the shop locations, set a reminder once a price drops and be aware of how the economic graph of products is moving.
 Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, and Laravel.
-✅ User types: Common and Merchant
-✅ Secure login and Registration
-✅ Prices history & Comparison
-✅ Geolocation of the Shop where you want to get the price
-✅ On release 1.2, payment will come via phone  
-✅ Delivery service for release 1.2
-✅ Deployment done by me
+  ✅ User types: Common and Merchant
+  ✅ Secure login and Registration
+  ✅ Prices history & Comparison
+  ✅ Geolocation of the Shop where you want to get the price
+  ✅ On release 1.2, payment will come via phone  
+  ✅ Delivery service for release 1.2
+  ✅ Deployment done by me
 - repo: [https://github.com/babaluis/globaso](https://github.com/babaluis/marketplace)
-🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
+- 🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
 
 
 
