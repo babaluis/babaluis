@@ -21,6 +21,19 @@ Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recapt
 - repo: https://github.com/babaluis/globaso
 - Site: https://novasmatriculas.com/
 
+💸 Xpreços
+A comparison platform to compare prices of products in Angola, and enable them to find the shop locations, set a reminder once a price drops and be aware of how the economic graph of products is moving.
+Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, and Laravel.
+✅ User types: Common and Merchant
+✅ Secure login and Registration
+✅ Prices history & Comparison
+✅ Geolocation of the Shop where you want to get the price
+✅ On release 1.2, payment will come via phone  
+✅ Delivery service for release 1.2
+✅ Deployment done by me
+- repo: [https://github.com/babaluis/globaso](https://github.com/babaluis/marketplace)
+🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
+
 
 
 <!--
