@@ -5,12 +5,12 @@ My goal is to help people and companies bring new solutions using technology to 
 - 🌱 Learning advanced system architecture & cloud integrations  
 - 💬 Ask me about PHP, Laravel, JavaScript, and database design  
 
-##⚡ Skills & Technologies
+## ⚡ Skills & Technologies
 Languages (PHP, JavaScript, Python, etc.)
 Frameworks & Tools (Laravel, React, Node.js, MySQL, Git, Docker…)
 Others (APIs, Cloudflare, DevOps basics…)
 
-##🚀 Projects & Contributions
+## 🚀 Projects & Contributions
 🔧 Globaso - License Plate Management System
 A secure web-based system for ordering and managing license plates in Angola.
 Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, 
