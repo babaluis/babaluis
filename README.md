@@ -34,7 +34,16 @@ Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptch
 - repo: [https://github.com/babaluis/globaso](https://github.com/babaluis/marketplace)
 - 🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
 
-
+## 🔎AchaJa
+A platform for Cidade da China, a small (big) city in Angola, where there are more than 100 shops. The goal is to facilitate users in finding shops and products in this small city. 
+Tech stack: Laravel, Tailwind CSS, JavaScript, Bootstrap, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, and Laravel.
+  ✅ User types: Common and Merchant
+  ✅ Secure login and Registration
+  ✅ Geolocation of the Shop
+  ✅ On release 1.2, payment will come via phone  
+  ✅ Delivery service for release 1.2
+  ✅ Deployment done by me
+	- Repo: https://github.com/babaluis/achaJa
 
 <!--
 **babaluis/babaluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
