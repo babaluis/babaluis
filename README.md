@@ -19,7 +19,7 @@ Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recapt
 ✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
 ✅ Deployment done by me
 - repo: https://github.com/babaluis/globaso
-- Site: novasmatriculas.com
+- Site: https://novasmatriculas.com/
 
 
 
