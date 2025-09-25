@@ -6,9 +6,9 @@ My goal is to help people and companies bring new solutions using technology to 
 - 💬 Ask me about PHP, Laravel, JavaScript, and database design  
 
 ## ⚡ Skills & Technologies
-Languages (PHP, JavaScript, Python, etc.)
-Frameworks & Tools (Laravel, React, Node.js, MySQL, Git, Docker…)
-Others (APIs, Cloudflare, DevOps basics…)
+- Languages (PHP, JavaScript, Python, etc.)
+- Frameworks & Tools (Laravel, React, Node.js, MySQL, Git, Docker…)
+- Others (APIs, Cloudflare, DevOps basics…)
 
 ## 🚀 Projects & Contributions
 🔧 Globaso - License Plate Management System
@@ -17,9 +17,9 @@ Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recapt
 ✅ Secure authentication and authorisation
 ✅ REST API integration with a physical license plate printing machine
 ✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
-✅ Deployment done by myself
-repo: https://github.com/babaluis/globaso
-Site: novasmatriculas.com
+✅ Deployment done by me
+- repo: https://github.com/babaluis/globaso
+- Site: novasmatriculas.com
 
 
 
