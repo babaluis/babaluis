@@ -11,6 +11,15 @@ I am currently working on various projects, including a new platform built with 
 - Others (APIs, Cloudflare, DevOps basics…)
 
 ## 🚀 Projects & Contributions
+## 🛅 Public Service Revenue Management
+A secure platform built on Oracle and the Web platform, to control the Angola Revenue. As a software Engineer, I have to develop new modules and add new features based on the government Rules.
+Tech stack: Java, SpringBoot, OUAF, Gitlab, APIs, Weblogic, SOAP, Business and script Service, JavaScript, Oracle Database, NodeJS, jQuery, Oracle PSRM, VPN
+  ✅ Secure authentication and authorisation
+  ✅ REST API integration with a physical license plate printing machine
+  ✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
+- Connection to the Oracle system by IP address and VPN connection
+- Official Site: (https://portaldocontribuinte.minfin.gov.ao/)
+
 ## 🔧 Globaso - License Plate Management System
 A secure web-based system for ordering and managing license plates in Angola.
 Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recaptcha, Cloudflare, Git, 
