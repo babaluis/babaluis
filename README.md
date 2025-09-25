@@ -27,7 +27,6 @@ Tech stack: PHP, Bootstrap, JavaScript, Angular, SQL, jQuery, API, Google Recapt
   ✅ REST API integration with a physical license plate printing machine
   ✅ Agile collaboration with daily stand-ups, code reviews, and unit testing
   ✅ Deployment done by me
-- repo: https://github.com/babaluis/globaso
 - Site: https://novasmatriculas.com/
 
 ## 💸 Xpreços
@@ -40,7 +39,7 @@ Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptch
   ✅ On release 1.2, payment will come via phone  
   ✅ Delivery service for release 1.2
   ✅ Deployment done by me
-- repo: [https://github.com/babaluis/globaso](https://github.com/babaluis/marketplace)
+
 - 🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
 
 ## 🔎AchaJa
