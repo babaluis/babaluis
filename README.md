@@ -51,6 +51,14 @@ Tech stack: HTML, CSS, JavaScript and Bootstrap
   ✅ Contacts of the Embassy
   ✅ Deployment done by me
 	- Repo: [https://github.com/babaluis/achaJa](https://github.com/babaluis/Angola-embazzyzd)
+
+## 📊 GitHub Stats
+![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- LinkedIn: [[linkedin.com/in/yourusername](#)](https://www.linkedin.com/in/luis-baba-189887185/)
+- Portfolio: lbsolutions.com
+- Email: luisbaba62@gmail.com
 <!--
 **babaluis/babaluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
