@@ -3,7 +3,7 @@ I’m Luis, a Software Engineer with 5+ years of experience, passionate about PH
 I am currently working on various projects, including a new platform built with Laravel to help people find shops in a specific community, and a new module for Electronic Notification to Users in the Public Sector Revenue Management. 
 - My goal is to help people and companies bring new solutions using technology to improve their lives. Currently, I am interested in becoming a DevOps
 - 🌱 Learning advanced system architecture & cloud integrations  
-- 💬 Ask me about PHP, Laravel, JavaScript, and database design  
+- 💬 Ask me about Data analysis, PHP, Laravel, JavaScript, React  and database design  
 
 ## ⚡ Skills & Technologies
 - Languages (PHP, JavaScript, Python, etc.)
