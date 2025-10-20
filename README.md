@@ -6,7 +6,7 @@ I am currently working on various projects, including a new platform built with 
 - 💬 Ask me about Data analysis, PHP, Laravel, JavaScript, React  and database design  
 
 ## ⚡ Skills & Technologies
-- Languages (PHP, JavaScript, Python, etc.)
+- Languages (PHP, JavaScript, Python, Java, etc.)
 - Frameworks & Tools (Laravel, React, Node.js, MySQL, Git, Docker…)
 - Others (APIs, Cloudflare, DevOps basics…)
 
