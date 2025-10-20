@@ -40,7 +40,7 @@ Tech stack: PHP, Bootstrap, JavaScript, React, SQL, jQuery, API, Google Recaptch
   ✅ Delivery service for release 1.2
   ✅ Deployment done by me
 
-- 🔗 Site: [https://novasmatriculas.com/](https://xprecos.com/)
+- 🔗 Site: (https://xprecos.com/)
 
 ## 🔎AchaJa
 A platform for Cidade da China, a small (big) city in Angola, where there are more than 100 shops. The goal is to facilitate users in finding shops and products in this small city. 
@@ -51,7 +51,8 @@ Tech stack: Laravel, Tailwind CSS, JavaScript, Bootstrap, SQL, jQuery, API, Goog
   ✅ On release 1.2, payment will come via phone  
   ✅ Delivery service for release 1.2
   ✅ Deployment done by me
-	- 🔗 Site: [https://achaja.com/](https://achaja.com/)
+  
+- 🔗 Site: (https://achaja.com/)
 ## 🏬 Angola Embassy in Zambia
 An official Angola Embassy site for users to collect forms related to Angola visa and services, Angola news and Angola Activities in Zambia. This site enabled the Angola community in Zambia to connect to the country.
 Tech stack: HTML, CSS, JavaScript and Bootstrap
