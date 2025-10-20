@@ -51,7 +51,7 @@ Tech stack: Laravel, Tailwind CSS, JavaScript, Bootstrap, SQL, jQuery, API, Goog
   ✅ On release 1.2, payment will come via phone  
   ✅ Delivery service for release 1.2
   ✅ Deployment done by me
-	- Repo: https://github.com/babaluis/achaJa
+	- 🔗 Site: [https://achaja.com/](https://achaja.com/)
 ## 🏬 Angola Embassy in Zambia
 An official Angola Embassy site for users to collect forms related to Angola visa and services, Angola news and Angola Activities in Zambia. This site enabled the Angola community in Zambia to connect to the country.
 Tech stack: HTML, CSS, JavaScript and Bootstrap
